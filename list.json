@@ -1,68 +1,204 @@
 {
   "Songs": [
     {
-      "Title": "NEGORO ANGIN",
-      "Artist": "RULLY FVNKY RMX",
-      "Genre": "TIKTOK REMIX",
+      "Title": "1 APA ARTINYA CINTA x JANGAN PAKSA RINDU",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://82130095297900",
+      "SoundId": "rbxassetid://77398513123065",
       "Speed": 0.43
     },
     {
-      "Title": "MIXTAPE ENAK PART 1",
-      "Artist": "VEL BASS REMIX",
-      "Genre": "TIKTOK REMIX",
+      "Title": "2 APA ARTINYA CINTA x JANGAN PAKSA RINDU",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://124571036037625",
+      "SoundId": "rbxassetid://99957801758807",
       "Speed": 0.43
     },
     {
-      "Title": "MIXTAPE ENAK PART 2",
-      "Artist": "VEL BASS REMIX",
-      "Genre": "TIKTOK REMIX",
+      "Title": "1 SALAH APA x MUTIARA",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://96375153161619",
+      "SoundId": "rbxassetid://134854919944244",
       "Speed": 0.43
     },
     {
-      "Title": "MIXTAPE ENAK PART 3",
-      "Artist": "VEL BASS REMIX",
-      "Genre": "TIKTOK REMIX",
+      "Title": "2 SALAH APA x MUTIARA",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://102408456875009",
+      "SoundId": "rbxassetid://106711164849145",
       "Speed": 0.43
     },
     {
-      "Title": "TEH HIJAU",
-      "Artist": "MAMAN FVNDY",
-      "Genre": "TIKTOK REMIX",
+      "Title": "1 TEH HIJAU x APA ARTINYA CINTA",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://83942763835129",
+      "SoundId": "rbxassetid://106982927617542",
       "Speed": 0.43
     },
     {
-      "Title": "MY MINE GUEH x ASTAGA BERCANDA",
-      "Artist": "MAMAN FVNDY",
-      "Genre": "TIKTOK REMIX",
+      "Title": "2 TEH HIJAU x APA ARTINYA CINTA",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://125896564031456",
+      "SoundId": "rbxassetid://82208176123007",
       "Speed": 0.43
     },
     {
-      "Title": "MUTIARA",
-      "Artist": "MAMAN FVNDY",
-      "Genre": "TIKTOK REMIX",
+      "Title": "3 TEH HIJAU x APA ARTINYA CINTA",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://88635086560914",
+      "SoundId": "rbxassetid://91718480452628",
       "Speed": 0.43
     },
     {
-      "Title": "OBH COMBI SACHET",
-      "Artist": "MAMAN FVNDY",
-      "Genre": "TIKTOK REMIX",
+      "Title": "1 GAUN MERAH x BENANG BIRU",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
       "ImageId": "",
-      "SoundId": "rbxassetid://108048389212479",
+      "SoundId": "rbxassetid://139102875900947",
       "Speed": 0.43
-    }
+    },
+    {
+      "Title": "2 GAUN MERAH x BENANG BIRU",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130764191407450",
+      "Speed": 0.43
+    },
+    {
+      "Title": "SIK SIK SIBATUMANIKAM x GUNTAR",
+      "Artist": "MEDAN DUTCH",
+      "Genre": "JUNGLE DUTCH",
+      "ImageId": "",
+      "SoundId": "rbxassetid://85163716159914",
+      "Speed": 0.43
+    },
+    {
+      "Title": "1 DM MIXTAPE",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137777576139652",
+      "Speed": 0.43
+    },
+    {
+      "Title": "2 DM MIXTAPE",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125990305399118",
+      "Speed": 0.43
+    },
+    {
+      "Title": "3 DM MIXTAPE",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110929839674965",
+      "Speed": 0.43
+    },
+    {
+      "Title": "1 BLB KENCANG TANPA BATAS",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132373556566125",
+      "Speed": 0.43
+    },
+    {
+      "Title": "2 BLB KENCANG TANPA BATAS",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://97277382590237",
+      "Speed": 0.43
+    },
+    {
+      "Title": "3 BLB KENCANG TANPA BATAS",
+      "Artist": "DM",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111177666647328",
+      "Speed": 0.43
+    },
+    {
+      "Title": "1 BLB NGAWANG",
+      "Artist": "Frnndo",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101351835150599",
+      "Speed": 0.43
+    },
+    {
+      "Title": "2 BLB NGAWANG",
+      "Artist": "Frnndo",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84919693448584",
+      "Speed": 0.43
+    },
+    {
+      "Title": "3 BLB NGAWANG",
+      "Artist": "Frnndo",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74674056777940",
+      "Speed": 0.43
+    },
+    {
+      "Title": "4 BLB NGAWANG",
+      "Artist": "Frnndo",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125811087257832",
+      "Speed": 0.43
+    },
+    {
+      "Title": "1 BREAKBEAT GEN Z",
+      "Artist": "Bermhuda",
+      "Genre": "BREAKBEAT",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139690701846438",
+      "Speed": 0.43
+    },
+    {
+      "Title": "2 BREAKBEAT GEN Z",
+      "Artist": "Bermhuda",
+      "Genre": "BREAKBEAT",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88934417440997",
+      "Speed": 0.43
+    },
+    {
+      "Title": "3 BREAKBEAT GEN Z",
+      "Artist": "Bermhuda",
+      "Genre": "BREAKBEAT",
+      "ImageId": "",
+      "SoundId": "rbxassetid://106907624196148",
+      "Speed": 0.43
+    },
+    {
+      "Title": "1 HABIS NGAWANG TERBITLAH BOLHA",
+      "Artist": "Wolvgang",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://113293311396673",
+      "Speed": 0.43
+    },
+    {
+      "Title": "2 HABIS NGAWANG TERBITLAH BOLHA",
+      "Artist": "Wolvgang",
+      "Genre": "INDOBOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84385181185280",
+      "Speed": 0.43
+    },
   ]
 }
